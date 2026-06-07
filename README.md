@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&lines=🚀+Building+UniLance+—+MERN+Freelance+Platform;⚡+Full-Stack+Dev+%40+UOJ+%7C+React+%2B+Node+%2B+MongoDB;🤖+AI+Integration+with+Google+Gemini+API;🎨+UI%2FUX+%2B+3D+Design+Enthusiast;🌐+Turning+Ideas+Into+Shipped+Products)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&lines=⚡+Full-Stack+Dev+%40+UOJ+%7C+React+%2B+Node+%2B+MongoDB;🤖+AI+Integration+with+Google+Gemini+API;🎨+UI%2FUX+%2B+3D+Design+Enthusiast;🌐+Turning+Ideas+Into+Shipped+Products)](https://git.io/typing-svg)
 
 <br/>
 
