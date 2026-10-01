@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" alt="deshan"  /> </p>
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" alt="chxlla"/></p>
 <h1 align="center">Hi 👋, I'm Chalindu Dilhara</h1>
 <hr>
 <p align="center">
@@ -8,7 +8,7 @@
 
 <img align="right" alt="Coding" width="400" height="250" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hndeshansamarathunga&label=Profile%20views&color=0e75b6&style=flat" alt="hndeshansamarathunga" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chxlla&label=Profile%20views&color=0e75b6&style=flat" alt="chxlla" /> </p>
 
 - 🌱 I’m currently learning **Information and communications Technology in University of Jaffna**
 
